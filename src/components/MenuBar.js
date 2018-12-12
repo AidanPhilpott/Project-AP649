@@ -19,7 +19,7 @@ const MenuBar = (props) => (
 
             const aTag = document.createElement('a');
             aTag.setAttribute('href', img);
-            aTag.setAttribute('download', 'velo.png');
+            aTag.setAttribute('download', 'DaBees.png');
             document.body.appendChild(aTag);
             aTag.click();
             document.body.removeChild(aTag);

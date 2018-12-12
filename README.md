@@ -12,8 +12,6 @@ The product is a bluetooth enabled sensor module that sends accelerometer data t
 
 Currently AP649 only uses acceleration and magnetometer data.
 
-Overall, velo is an interactive children's toy that aims to encourage learning through creation from play.
-
 <p align="center">
     <img src="src/assets/image.png" alt="AP649" />
 </p>
