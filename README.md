@@ -10,7 +10,7 @@ Project AP649 is an interactive sensor that visualizes physics concepts. Created
 
 The product is a bluetooth enabled sensor module that sends accelerometer data to a visual display in order to help users visualize changes in acceleration during interaction. With further development AP649's visualization can utilize more data inputs from its 9 degrees of freedom sensor. Using this information would allow AP649 to visualize more physics concepts such as motion and impact.
 
-Currently AP649 only uses acceleration and magnetometer data.
+Currently AP649 only uses acceleration data.
 
 <p align="center">
     <img src="src/assets/image.png" alt="AP649" />
